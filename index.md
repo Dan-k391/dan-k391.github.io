@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Dan-k391
 ---
 
-Hello
+Dan-k391's blogs, inspired by mark (MARK, a real knoob)
